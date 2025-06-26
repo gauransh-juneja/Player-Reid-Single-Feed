@@ -15,7 +15,7 @@ This project aims to identify and track players in a single 15-second soccer vid
 - Google Colab (recommended)
 
 ## 🗂 Files
-- `Player Re-Identification.ipynb`: Main script with detection + tracking
+- `Player Re-Identification.py`: Main script with detection + tracking
 - `yolo_reid.pt`: Trained YOLOv11 model ([Download Link](https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view))
 - `15sec_input_720p.mp4`: Video file ([Download Link](https://drive.google.com/drive/folders/1Nx6H_n0UUI6L-6i8WknXd4Cv2c3VjZTP?usp=sharing))
 - `report.md`: Brief write-up of methodology
